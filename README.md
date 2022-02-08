@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgorsPalcevskis
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unity
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m not currently looking to collaborate ...
 - 📫 You can reach me on igors.palcevskis@gmail.com
 
